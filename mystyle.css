@@ -1,0 +1,23 @@
+body {
+  background-image: linear-gradient(to bottom right, #003BFF, #A4D6FF, #A4FFDC);
+}
+
+h1 {
+  color: #FF2D00;
+  text-shadow: 2px 2px #FFFFFF;
+  margin-left: 20px;
+}
+
+h2 {
+  color: #FFFFFF
+
+}
+
+#spaceballs {
+  background-color: #C5C5C5;
+  color: #C100FF;
+  width: 500px;
+  border: 15px dashed;
+  padding: 50px;
+  margin: 20px;
+}
